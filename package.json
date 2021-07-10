@@ -1,0 +1,12 @@
+{
+    "source": "src",
+    "type": "binary",
+    "binary": "sparkline_cli",
+    "main": "src/sparkline_cli.nt",
+    "dependencies": {
+      "sparkline": "*"
+    },
+    "sources": {
+      "sparkline": "https://git.github.com/dbohdan/sparkline"
+    }
+}
