@@ -1,6 +1,6 @@
 module sparkline_cli;
 
-macro import cx.macros.listcomprehension;
+macro import neat.macros.listcomprehension;
 
 import sparkline;
 import std.string;
